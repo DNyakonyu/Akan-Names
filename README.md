@@ -16,11 +16,11 @@ https://DNyakonyu.github.io/Akan-Names
 
 ## Technologies used
 
-### HTML
-### CSS
-### JS
-### Bootstrap &
-### markdown
+#### HTML
+#### CSS
+#### JS
+#### Bootstrap &
+#### markdown
 
 ## BDD
 
