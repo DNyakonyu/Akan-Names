@@ -30,9 +30,9 @@ Enter year of Birth eg 14 for 2014 Input Example 14 Output Example 14
 
 Enter month of birth eg 4 for April Input example 4 Output example 4
 
-Enter Date of the month you were born in eg 27 input example 27 output example 207
+Enter Date of the month you were born in eg 27 input example 27 output example 27
 
-Select gender Input example male output male
+Select gender Input example male gender output male
 
 Select gender Input example female output female
 
