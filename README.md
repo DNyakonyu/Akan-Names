@@ -16,7 +16,7 @@ https://DNyakonyu.github.io/Akan-Names
 
 ## Technologies used
 
-### HTML()
+### HTML(https://www.w3schools.com/html/html_basic.asp)
 ### CSS()
 ### JS()
 ### Bootstrap() &
