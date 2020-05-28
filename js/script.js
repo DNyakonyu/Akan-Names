@@ -6,7 +6,7 @@ var femaleNames = ["Akosua","Adwoa","Abenaa","Akua"," Yaa","Afua","Ama"];
 function validate() {
   var genders = document.getElementsByName("gender");
   if( document.myForm.year.value == "" || document.myForm.year.value.length !=4 || document.myForm.year.value >2100 || document.myForm.year.value <=1900) {
-     alert( "When is your Birth-year" );
+     alert( "Please enter a valid Birth-year" );
      document.myForm.year.focus() ;
      return false;
   }
