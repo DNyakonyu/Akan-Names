@@ -47,4 +47,4 @@ date input - 27
 gender - female selected, Expected output is You were born on Wednesday and Your akan name is Akua!
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT License](https://choosealicense.com/licenses/mit/)
