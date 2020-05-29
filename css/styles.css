@@ -83,7 +83,7 @@ input[type="radio"] {
   margin-top: -10px;
 }
 .card{
-  background: rgb(145, 168, 192);
+  background: rgb(237, 229, 185);
 }
 .card-body{
   color: rgb(0, 0, 0);
@@ -91,24 +91,24 @@ input[type="radio"] {
 .card-deck{
   padding-bottom: 20px;
   font-weight: 600;
-  font-family: 'Sorts Mill Goudy', serif;
+  font-family: 'Sports mill Gaudy', serif;
   font-size: 18px;
 }
 .footer-copyright{
   color: rgb(255, 255, 255);
-  font-weight: 600;
+  font-weight: 400;
   font-size: 18px;
 }
 .footer-copyright a{
 color: rgb(255, 255, 255);;
-font-weight: 600;
+font-weight: 400;
 }
 .footer-copyright a:hover{
-  color: rgb(254, 254, 254);
+  color: rgb(237, 229, 185);
   font-weight: 700;
   text-decoration: none;
 }
 .card-text a:hover{
-  color: rgb(0, 0, 0);
+  color: rgb(217, 212, 212);
   text-decoration: none;
 }
