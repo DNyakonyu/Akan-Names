@@ -26,7 +26,9 @@ https://github.com/DNyakonyu/Akan-Names
 #### Bootstrap &
 #### markdown
 
+
 ##### Setup Instructions and Installation
+
 
 - Clone this repository to a location in your file system. `git clone https://github.com/DNyakonyu/Akan-Names`
 - Open terminal command line then navigate to the root folder of the application. `cd Akan-Names`
