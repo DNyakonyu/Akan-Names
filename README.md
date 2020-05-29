@@ -13,7 +13,7 @@ This project is a web application that takes a user's birthday and calculates th
 
 ## IP URL
 
-https://DNyakonyu.github.io/Akan-Names
+https://github.com/DNyakonyu/Akan-Names
 
 ## Technologies used
 
