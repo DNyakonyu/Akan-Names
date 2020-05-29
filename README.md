@@ -25,7 +25,7 @@ https://github.com/DNyakonyu/Akan-Names
 
 ## BDD
 
-Enter century of birth eg 20 for 2020, Input Example 20 Output example 20
+
 Enter year of Birth eg 14 for 2014 Input Example 14 Output Example 14
 
 Enter month of birth eg 4 for April Input example 4 Output example 4
