@@ -20,11 +20,11 @@ https://github.com/DNyakonyu/Akan-Names
 
 ## Technologies used
 
-#### [](HTML)
-#### [](CSS)
-#### [](JS)
-#### [](Bootstrap) &
-#### [](markdown)
+##### HTML
+##### CSS
+##### JS
+##### Bootstrap &
+##### markdown
 
 
 ##### Setup Instructions and Installation
