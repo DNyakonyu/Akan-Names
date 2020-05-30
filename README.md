@@ -3,7 +3,7 @@
 
 ## Author
 
-DNyakonyu
+[]DNyakonyu(https://github.com/DNyakonyu/Akan-Names)
 
 ## Description
 
