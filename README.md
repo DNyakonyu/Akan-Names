@@ -73,5 +73,9 @@ month input - 5
 date input - 27
 gender - female selected, Expected output is You were born on Wednesday and Your akan name is Akua!
 
+## Known error/bug
+
+Sometimes if wrong entry is done, the system outputs results, then prompts for the correct information entry.
+
 ## License
 [MIT License](https://choosealicense.com/licenses/mit/)
