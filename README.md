@@ -29,7 +29,7 @@ https://github.com/DNyakonyu/Akan-Names
 
 
 
-### How to use Instructions 
+### Set up Instructions 
 
 
 - Clone this repository to a location in your file system. `git clone https://github.com/DNyakonyu/Akan-Names`
